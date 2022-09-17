@@ -21,7 +21,7 @@ By choosing the first option the below menu will be shown:
 >      3) Customer info
 >      4) Back to main menu
 
-- By choosing 1 or 2, the user add a food or drink to menu; at that point he/she enters id, title, cost and number of it.
+- By choosing 1 or 2, the user add a food or drink to menu; at that point he/she enters id, title, price and number of it.
 - By choosing option 3, customers' info including their full name, phone number and gender will be displayed.
 
 **At the end of each mentioned state, the above menu will be shown to the manager.**
@@ -67,4 +67,4 @@ In this section, the goal is to compare inheritance types by giving some example
 <br/>
 
 ### The third question asks the difference between composition and aggregation relations in java...
-In this part, I compared aggrgation and inheritance, and also types of the association (composition and aggregation) have been compared by giving code examples.
+In this part, I compared association and inheritance, and also types of the association (composition and aggregation) have been compared by giving code examples.
