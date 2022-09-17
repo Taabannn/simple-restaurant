@@ -59,6 +59,12 @@ After Viewing the menu, the customer enters the id of his/her arbitrary food or 
 
 **At the end of each mentioned state, the above menu will be shown to the manager.**
 
-### The second one is about the inheritance... 
+<br/>
 
-### The third question asks the difference between composition and aggregation relations in java.
+### The second question is about the inheritance...
+In this section, the goal is to compare inheritance types by giving some examples in java. (as you know we cannot implement multiple inheritance in java for avoiding ambiguity.)
+
+<br/>
+
+### The third question asks the difference between composition and aggregation relations in java...
+In this part, I compared aggrgation and inheritance, and also types of the association (composition and aggregation) have been compared by giving code examples.
