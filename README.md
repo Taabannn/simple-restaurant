@@ -10,6 +10,7 @@ Think of a restaurant which takes orders only for lunch or dinner and it has sep
 >      2) Login as a customer
 >      3) Exit
 
+<br/>
 
 1- Manager
 
@@ -20,11 +21,17 @@ By choosing the first option the below menu will be shown:
 >      3) Customer info
 >      4) Back to main menu
 
-- By choosing 1 or 2, the client include a food or drink to menu; at that point he/she enters id, title, cost and number of it.
+- By choosing 1 or 2, the user add a food or drink to menu; at that point he/she enters id, title, cost and number of it.
 - By choosing option 3, customers' info including their full name, phone number and gender will be displayed.
 
+**At the end of each mentioned state, the above menu will be shown to the manager.**
+
+<br/>
+
 2- Customer
->      *** Manager Menu ***
+
+By choosing the second option, general customer's info such as full name, phone number and gender will be requested; and then the below menu will be shown:
+>      *** Customer Menu ***
 >      1) Add new order
 >      2) Show orders details
 >      3) Cancel an order
