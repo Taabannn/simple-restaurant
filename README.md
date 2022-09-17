@@ -20,6 +20,9 @@ By choosing the first option the below menu will be shown:
 >      3) Customer info
 >      4) Back to main menu
 
+- By choosing 1 or 2, the client include a food or drink to menu; at that point he/she enters id, title, cost and number of it.
+- By choosing option 3, customers' info including their full name, phone number and gender will be displayed.
+
 2- Customer
 >      *** Manager Menu ***
 >      1) Add new order
