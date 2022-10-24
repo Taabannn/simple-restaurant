@@ -68,3 +68,29 @@ In this section, the goal is to compare inheritance types by giving some example
 
 ### The third question asks the difference between composition and aggregation relations in java...
 In this part, I compared association and inheritance, and also types of the association (composition and aggregation) have been compared by giving code examples.
+
+### Requirements 🔧
+* Java version 8 or higher.
+
+### How to contribute to this repository 
+. Press the **Fork** button in order to save copy of this repo on your account.
+
+. Download the files by pressing download button or clone this repo by the the following command in your git bash:
+
+       git clone git@github.com:Taabannn/simple-restaurant.git
+       
+. Open project in your Java IDE.
+
+. Make a new branch.
+ 
+       git checkout -b branch-name
+. Make new changes of repository on new branch.
+
+. Push the changes.
+
+       git add .
+       git commit -m "Your commit Message"
+       git push origin branch-name
+. Make a pull request.
+
+. ⭐ this repository.
