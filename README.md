@@ -69,6 +69,7 @@ In this section, the goal is to compare inheritance types by giving some example
 ### The third question asks the difference between composition and aggregation relations in java...
 In this part, I compared association and inheritance, and also types of the association (composition and aggregation) have been compared by giving code examples.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Requirements 🔧
 * Java version 8 or higher.
 
